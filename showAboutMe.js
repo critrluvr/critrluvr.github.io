@@ -3,7 +3,7 @@ var toggleShow=document.getElementById('more');
 var toggleHide=document.getElementById('less');
 var aboutMe=document.getElementById('bio');
 
-var engagePartyMode=document.getElementById('partyNow');
+var engagePartyMode=document.getElementById('startParty');
 var disengagePartyMode=document.getElementById('stopParty');
 var thePage=document.getElementsByTagName("body");
 
