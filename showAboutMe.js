@@ -14,9 +14,11 @@ toggleShow.addEventListener('click',function(e){
 	toggleHide.classList.remove('hidden');
 	toggleShow.classList.add('hidden');
 
-	engagePartyMode.classList.add('hidden');
+	thePage.classList.add('extender');
+
+	/*engagePartyMode.classList.add('hidden');
 	disengagePartyMode.classList.add('hidden');
-	thePage.classList.remove('party');
+	thePage.classList.remove('party');*/
 });
 
 toggleHide.addEventListener('click',function(e){
@@ -24,7 +26,9 @@ toggleHide.addEventListener('click',function(e){
 	aboutMe.classList.add('hidden');
     toggleShow.classList.remove('hidden');
 	toggleHide.classList.add('hidden');
-	engagePartyMode.classList.remove('hidden');
+
+	thePage.classList.remove('extender');
+	/*engagePartyMode.classList.remove('hidden');*/
 });
 
 engagePartyMode.addEventListener('click',function(e){
