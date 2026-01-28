@@ -395,7 +395,7 @@ html {
 
 html,
 html[data-theme="light"] {
-	--bg-color: #67080b;
+	--bg-color: #FF44AA;
 	--text-color: azure;
 	--accent-color: azure;
 	--black-color: #080808;
@@ -406,7 +406,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-	--bg-color: #67080b;
+	--bg-color: #FF44AA;
 	--text-color: azure;
 	--accent-color: azure;
 	--black-color: #080808;
@@ -419,7 +419,7 @@ html[data-theme="dark"] {
 @media (prefers-color-scheme: dark) {
 html,
 html[data-theme="dark"] {
-	--bg-color: #67080b;
+	--bg-color: #FF44AA;
 	--text-color: azure;
 	--accent-color: azure;
 	--black-color: #080808;
@@ -430,7 +430,7 @@ html[data-theme="dark"] {
 }
 	
 html[data-theme="light"] {
-	--bg-color: #67080b;
+	--bg-color: #FF44AA;
 	--text-color: azure;
 	--accent-color: azure;
 	--black-color: #080808;
