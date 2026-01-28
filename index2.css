@@ -397,7 +397,7 @@ html,
 html[data-theme="light"] {
 	--bg-color: #EA0883;
 	--text-color: azure;
-	--accent-color: azure;
+	--accent-color: #00ff40;
 	--black-color: #080808;
 	--gold-color: #00ff40;
 	--bio: azure;
@@ -408,7 +408,7 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
 	--bg-color: #EA0883;
 	--text-color: azure;
-	--accent-color: azure;
+	--accent-color: #00ff40;
 	--black-color: #080808;
 	--gold-color: #00ff40;
 	--bio: #080808;
@@ -421,7 +421,7 @@ html,
 html[data-theme="dark"] {
 	--bg-color: #EA0883;
 	--text-color: azure;
-	--accent-color: azure;
+	--accent-color: #00ff40;
 	--black-color: #080808;
 	--gold-color: #00ff40;
 	--bio: #080808;
@@ -432,7 +432,7 @@ html[data-theme="dark"] {
 html[data-theme="light"] {
 	--bg-color: #EA0883;
 	--text-color: azure;
-	--accent-color: azure;
+	--accent-color: #00ff40;
 	--black-color: #080808;
 	--gold-color: #00ff40;
 	--bio: azure;
