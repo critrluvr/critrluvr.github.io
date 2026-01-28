@@ -395,22 +395,22 @@ html {
 
 html,
 html[data-theme="light"] {
-	--bg-color: #FF44AA;
+	--bg-color: #EA0883;
 	--text-color: azure;
 	--accent-color: azure;
 	--black-color: #080808;
-	--gold-color: #ffbf00;
+	--gold-color: #00ff40;
 	--bio: azure;
 	--bio-text: #080808;
 	--shadows: rgba(125, 138, 124, 0.23);
 }
 
 html[data-theme="dark"] {
-	--bg-color: #FF44AA;
+	--bg-color: #EA0883;
 	--text-color: azure;
 	--accent-color: azure;
 	--black-color: #080808;
-	--gold-color: #ffbf00;
+	--gold-color: #00ff40;
 	--bio: #080808;
 	--bio-text: azure;
 	--shadows: rgba(125, 138, 124, 0.23);
@@ -419,22 +419,22 @@ html[data-theme="dark"] {
 @media (prefers-color-scheme: dark) {
 html,
 html[data-theme="dark"] {
-	--bg-color: #FF44AA;
+	--bg-color: #EA0883;
 	--text-color: azure;
 	--accent-color: azure;
 	--black-color: #080808;
-	--gold-color: #ffbf00;
+	--gold-color: #00ff40;
 	--bio: #080808;
 	--bio-text: azure;
 	--shadows: rgba(125, 138, 124, 0.23);
 }
 	
 html[data-theme="light"] {
-	--bg-color: #FF44AA;
+	--bg-color: #EA0883;
 	--text-color: azure;
 	--accent-color: azure;
 	--black-color: #080808;
-	--gold-color: #ffbf00;
+	--gold-color: #00ff40;
 	--bio: azure;
 	--bio-text: #080808;
 	--shadows: rgba(125, 138, 124, 0.23);
